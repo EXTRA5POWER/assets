@@ -1,0 +1,11 @@
+{
+    "name": "EXTRA5POWER",
+    "type": "BEP20",
+    "symbol": "E5P",
+    "decimals": 18,
+    "website": "https://e5p.com",
+    "description": "key aspect of the Extra5Power services for the helping develop remote surgery platform and Network combines 5G, blockchain and cryptocurrency, as no such program exists.",
+    "explorer": "https://bscscan.com/token/0xfd5a4fbc44221c465e95535513e219d26cff98ee",
+    "status": "active",
+    "id": "0xfd5a4fbc44221c465e95535513e219d26cff98ee"
+}
